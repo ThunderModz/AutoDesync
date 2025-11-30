@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ThunderModz/projectreverse/refs/heads/main/V2
+loadstring(game:HttpGet("https://pastefy.app/xiaeAP02/raw", true))()
